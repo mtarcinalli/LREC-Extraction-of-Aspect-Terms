@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>104</totalAspects>
+	<pred>60</pred>
+	<tp>56</tp>
+	<fp>35</fp>
+	<fn>48</fn>
+	<precisao>0.6153846153846154</precisao>
+	<precisaoLaplace>0.6129032258064516</precisaoLaplace>
+	<revocacao>0.5384615384615384</revocacao>
+	<medidaf>0.5743589743589744</medidaf>
+	<totalExplicitos>91</totalExplicitos>
+	<explicitosOk>24</explicitosOk>
+	<pExplicitos>0.26373626373626374</pExplicitos>
+	<explicitsList>
+		<item>bateria</item>
+		<item>cartão de memória</item>
+		<item>flash</item>
+		<item>menu</item>
+		<item>memória</item>
+		<item>zoom</item>
+		<item>lente</item>
+		<item>acessórios</item>
+		<item>preço</item>
+		<item>produto</item>
+		<item>investimento</item>
+		<item>funções</item>
+		<item>praticidade</item>
+		<item>botão</item>
+		<item>câmera</item>
+		<item>fotografia</item>
+		<item>máquina</item>
+		<item>camera</item>
+		<item>fotos</item>
+		<item>resolução</item>
+		<item>visor</item>
+		<item>manuseio</item>
+		<item>recursos</item>
+		<item>qualidade de imagem</item>
+	</explicitsList>
+	<totalImplicitos>13</totalImplicitos>
+	<implicitosOk>1</implicitosOk>
+	<pImplicitos>0.07692307692307693</pImplicitos>
+	<implicitsList>
+		<item>compacta</item>
+	</implicitsList>
+	<tipos>
+		<Qualification>
+			<Adjective>4</Adjective>
+		</Qualification>
+	</tipos>
+</resultados>

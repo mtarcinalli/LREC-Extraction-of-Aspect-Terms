@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>158</totalAspects>
+	<pred>150</pred>
+	<tp>53</tp>
+	<fp>129</fp>
+	<fn>105</fn>
+	<precisao>0.29120879120879123</precisao>
+	<precisaoLaplace>0.29347826086956524</precisaoLaplace>
+	<revocacao>0.33544303797468356</revocacao>
+	<medidaf>0.31176470588235294</medidaf>
+	<totalExplicitos>134</totalExplicitos>
+	<explicitosOk>18</explicitosOk>
+	<pExplicitos>0.13432835820895522</pExplicitos>
+	<explicitsList>
+		<item>camera digital</item>
+		<item>funções</item>
+		<item>internet</item>
+		<item>sinal</item>
+		<item>visor</item>
+		<item>produto</item>
+		<item>cartão de mémoria</item>
+		<item>modelo</item>
+		<item>preço</item>
+		<item>câmera</item>
+		<item>bateria</item>
+		<item>aparelho</item>
+		<item>wi-fi</item>
+		<item>celular</item>
+		<item>design</item>
+		<item>volume de áudio</item>
+		<item>touch</item>
+		<item>tela</item>
+	</explicitsList>
+	<totalImplicitos>24</totalImplicitos>
+	<implicitosOk>3</implicitosOk>
+	<pImplicitos>0.125</pImplicitos>
+	<implicitsList>
+		<item>fácil de mexer</item>
+		<item>pequeno</item>
+		<item>moderno</item>
+	</implicitsList>
+	<tipos>
+		<Qualification>
+			<Adjective>2</Adjective>
+		</Qualification>
+		<Event>
+			<Verb>1</Verb>
+		</Event>
+	</tipos>
+</resultados>

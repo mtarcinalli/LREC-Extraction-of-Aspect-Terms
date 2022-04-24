@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>104</totalAspects>
+	<pred>58</pred>
+	<tp>50</tp>
+	<fp>36</fp>
+	<fn>54</fn>
+	<precisao>0.5813953488372093</precisao>
+	<precisaoLaplace>0.5795454545454546</precisaoLaplace>
+	<revocacao>0.4807692307692308</revocacao>
+	<medidaf>0.5263157894736843</medidaf>
+	<totalExplicitos>91</totalExplicitos>
+	<explicitosOk>21</explicitosOk>
+	<pExplicitos>0.23076923076923078</pExplicitos>
+	<explicitsList>
+		<item>recursos</item>
+		<item>produto</item>
+		<item>resolução</item>
+		<item>visor</item>
+		<item>funções</item>
+		<item>fotografia</item>
+		<item>tela</item>
+		<item>câmera</item>
+		<item>praticidade</item>
+		<item>preço</item>
+		<item>investimento</item>
+		<item>menu</item>
+		<item>zoom</item>
+		<item>imagens</item>
+		<item>bateria</item>
+		<item>flash</item>
+		<item>máquina</item>
+		<item>cartão de memória</item>
+		<item>fotos</item>
+		<item>manuseio</item>
+		<item>foco</item>
+	</explicitsList>
+	<totalImplicitos>13</totalImplicitos>
+	<implicitosOk>1</implicitosOk>
+	<pImplicitos>0.07692307692307693</pImplicitos>
+	<implicitsList>
+		<item>compacta</item>
+	</implicitsList>
+	<tipos>
+		<Qualification>
+			<Adjective>4</Adjective>
+		</Qualification>
+	</tipos>
+</resultados>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>104</totalAspects>
+	<pred>81</pred>
+	<tp>63</tp>
+	<fp>50</fp>
+	<fn>41</fn>
+	<precisao>0.5575221238938053</precisao>
+	<precisaoLaplace>0.5565217391304348</precisaoLaplace>
+	<revocacao>0.6057692307692307</revocacao>
+	<medidaf>0.5806451612903226</medidaf>
+	<totalExplicitos>91</totalExplicitos>
+	<explicitosOk>29</explicitosOk>
+	<pExplicitos>0.31868131868131866</pExplicitos>
+	<explicitsList>
+		<item>qualidade das fotos</item>
+		<item>câmera</item>
+		<item>camera</item>
+		<item>armazenamento</item>
+		<item>zoom</item>
+		<item>vídeo</item>
+		<item>produto</item>
+		<item>resolução</item>
+		<item>bateria</item>
+		<item>ultrazoom</item>
+		<item>investimento</item>
+		<item>custo</item>
+		<item>fotos</item>
+		<item>imagens</item>
+		<item>lente</item>
+		<item>qualidade de imagem</item>
+		<item>memória</item>
+		<item>menu</item>
+		<item>máquina</item>
+		<item>recursos</item>
+		<item>visor</item>
+		<item>flash</item>
+		<item>foco</item>
+		<item>video</item>
+		<item>fotografia</item>
+		<item>funções</item>
+		<item>preço</item>
+		<item>botão</item>
+		<item>manuseio</item>
+	</explicitsList>
+	<totalImplicitos>13</totalImplicitos>
+	<implicitosOk>2</implicitosOk>
+	<pImplicitos>0.15384615384615385</pImplicitos>
+	<implicitsList>
+		<item>medidas</item>
+		<item>compacta</item>
+	</implicitsList>
+	<tipos>
+		<Feature>
+			<Attribute>1</Attribute>
+		</Feature>
+		<Qualification>
+			<Adjective>4</Adjective>
+		</Qualification>
+	</tipos>
+</resultados>

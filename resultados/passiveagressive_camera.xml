@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>104</totalAspects>
+	<pred>33</pred>
+	<tp>46</tp>
+	<fp>13</fp>
+	<fn>58</fn>
+	<precisao>0.7796610169491526</precisao>
+	<precisaoLaplace>0.7704918032786885</precisaoLaplace>
+	<revocacao>0.4423076923076923</revocacao>
+	<medidaf>0.5644171779141105</medidaf>
+	<totalExplicitos>91</totalExplicitos>
+	<explicitosOk>19</explicitosOk>
+	<pExplicitos>0.2087912087912088</pExplicitos>
+	<explicitsList>
+		<item>custo-benefício</item>
+		<item>funções</item>
+		<item>investimento</item>
+		<item>visor</item>
+		<item>máquina</item>
+		<item>recursos</item>
+		<item>zoom</item>
+		<item>camera</item>
+		<item>produto</item>
+		<item>lente</item>
+		<item>preço</item>
+		<item>fotos</item>
+		<item>resolução</item>
+		<item>manuseio</item>
+		<item>vídeos</item>
+		<item>câmera</item>
+		<item>flash</item>
+		<item>acessórios</item>
+		<item>bateria</item>
+	</explicitsList>
+	<totalImplicitos>13</totalImplicitos>
+	<implicitosOk>1</implicitosOk>
+	<pImplicitos>0.07692307692307693</pImplicitos>
+	<implicitsList>
+		<item>compacta</item>
+	</implicitsList>
+	<tipos>
+		<Qualification>
+			<Adjective>4</Adjective>
+		</Qualification>
+	</tipos>
+</resultados>
