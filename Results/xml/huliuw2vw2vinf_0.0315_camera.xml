@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>104</totalAspects>
+	<pred>18</pred>
+	<tp>27</tp>
+	<fp>8</fp>
+	<fn>77</fn>
+	<precisao>0.7714285714285715</precisao>
+	<precisaoLaplace>0.7567567567567568</precisaoLaplace>
+	<revocacao>0.25961538461538464</revocacao>
+	<medidaf>0.38848920863309355</medidaf>
+	<totalExplicitos>91</totalExplicitos>
+	<explicitosOk>10</explicitosOk>
+	<pExplicitos>0.10989010989010989</pExplicitos>
+	<explicitsList>
+		<item>resolução</item>
+		<item>camera</item>
+		<item>preço</item>
+		<item>visor</item>
+		<item>câmera</item>
+		<item>bateria</item>
+		<item>produto</item>
+		<item>zoom</item>
+		<item>investimento</item>
+		<item>máquina</item>
+	</explicitsList>
+	<totalImplicitos>13</totalImplicitos>
+	<implicitosOk>0</implicitosOk>
+	<pImplicitos>0.0</pImplicitos>
+	<implicitsList/>
+	<tipos>
+		<Qualification>
+			<Nominal_form>0</Nominal_form>
+		</Qualification>
+	</tipos>
+	<dataset>camera</dataset>
+	<cut>0.0315</cut>
+	<infW2V>True</infW2V>
+	<W2V>True</W2V>
+</resultados>

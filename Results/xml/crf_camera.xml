@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>104</totalAspects>
+	<pred>46</pred>
+	<tp>63</tp>
+	<fp>15</fp>
+	<fn>41</fn>
+	<precisao>0.8076923076923077</precisao>
+	<precisaoLaplace>0.8</precisaoLaplace>
+	<revocacao>0.6057692307692307</revocacao>
+	<medidaf>0.6923076923076924</medidaf>
+	<totalExplicitos>91</totalExplicitos>
+	<explicitosOk>28</explicitosOk>
+	<pExplicitos>0.3076923076923077</pExplicitos>
+	<explicitsList>
+		<item>custo-benefício</item>
+		<item>redução de olhos vermelhos</item>
+		<item>funções</item>
+		<item>investimento</item>
+		<item>visor</item>
+		<item>máquina</item>
+		<item>recursos</item>
+		<item>zoom</item>
+		<item>camera</item>
+		<item>produto</item>
+		<item>manual de instruções</item>
+		<item>navegação nas fotos</item>
+		<item>preço</item>
+		<item>memória</item>
+		<item>cartão de memória</item>
+		<item>resolução</item>
+		<item>fotos</item>
+		<item>vídeos</item>
+		<item>manuseio</item>
+		<item>menu</item>
+		<item>qualidade de imagem</item>
+		<item>qualidade das fotos</item>
+		<item>câmera</item>
+		<item>flash</item>
+		<item>fotografia</item>
+		<item>memória interna</item>
+		<item>custo</item>
+		<item>bateria</item>
+	</explicitsList>
+	<totalImplicitos>13</totalImplicitos>
+	<implicitosOk>3</implicitosOk>
+	<pImplicitos>0.23076923076923078</pImplicitos>
+	<implicitsList>
+		<item>compacta</item>
+		<item>facilidade de uso</item>
+		<item>versátil</item>
+	</implicitsList>
+	<tipos>
+		<Qualification>
+			<Adjective>5</Adjective>
+		</Qualification>
+		<Event>
+			<Non-verbal_form>1</Non-verbal_form>
+		</Event>
+	</tipos>
+</resultados>

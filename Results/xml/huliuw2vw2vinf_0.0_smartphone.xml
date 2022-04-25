@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>158</totalAspects>
+	<pred>34</pred>
+	<tp>46</tp>
+	<fp>18</fp>
+	<fn>112</fn>
+	<precisao>0.71875</precisao>
+	<precisaoLaplace>0.7121212121212122</precisaoLaplace>
+	<revocacao>0.2911392405063291</revocacao>
+	<medidaf>0.4144144144144144</medidaf>
+	<totalExplicitos>134</totalExplicitos>
+	<explicitosOk>15</explicitosOk>
+	<pExplicitos>0.11194029850746269</pExplicitos>
+	<explicitsList>
+		<item>audio</item>
+		<item>sinal</item>
+		<item>design</item>
+		<item>tela</item>
+		<item>durabilidade</item>
+		<item>menu</item>
+		<item>nokia</item>
+		<item>aparelho</item>
+		<item>celular</item>
+		<item>internet</item>
+		<item>produto</item>
+		<item>preço</item>
+		<item>visor</item>
+		<item>câmera</item>
+		<item>tamanho</item>
+	</explicitsList>
+	<totalImplicitos>24</totalImplicitos>
+	<implicitosOk>1</implicitosOk>
+	<pImplicitos>0.041666666666666664</pImplicitos>
+	<implicitsList>
+		<item>operação</item>
+	</implicitsList>
+	<tipos>
+		<Event>
+			<Non-verbal_form>1</Non-verbal_form>
+		</Event>
+	</tipos>
+	<dataset>smartphone</dataset>
+	<cut>0.0</cut>
+	<infW2V>True</infW2V>
+	<W2V>True</W2V>
+</resultados>

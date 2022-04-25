@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<resultados>
+	<totalAspects>87</totalAspects>
+	<pred>36</pred>
+	<tp>51</tp>
+	<fp>23</fp>
+	<fn>36</fn>
+	<precisao>0.6891891891891891</precisao>
+	<precisaoLaplace>0.6842105263157895</precisaoLaplace>
+	<revocacao>0.5862068965517241</revocacao>
+	<medidaf>0.6335403726708073</medidaf>
+	<totalExplicitos>82</totalExplicitos>
+	<explicitosOk>13</explicitosOk>
+	<pExplicitos>0.15853658536585366</pExplicitos>
+	<explicitsList>
+		<item>escritor</item>
+		<item>personagem</item>
+		<item>romance</item>
+		<item>início</item>
+		<item>protagonista</item>
+		<item>crítico</item>
+		<item>livrar</item>
+		<item>leitura</item>
+		<item>historiar</item>
+		<item>final</item>
+		<item>história</item>
+		<item>narrativo</item>
+		<item>fim</item>
+	</explicitsList>
+	<totalImplicitos>5</totalImplicitos>
+	<implicitosOk>0</implicitosOk>
+	<pImplicitos>0.0</pImplicitos>
+	<implicitsList/>
+	<tipos/>
+</resultados>
