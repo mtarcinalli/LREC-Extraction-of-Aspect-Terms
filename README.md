@@ -2,5 +2,14 @@
 
 ![NILC - ICMC - C4AI](https://github.com/mtarcinalli/LREC-Extraction-of-Aspect-Terms/blob/main/logos.png?raw=true)
 
+This repository contains the code for our LREC 2022 paper.
 
-Mateus Tarcinalli Machado, Thiago Alexandre Salgueiro Pardo
+## Acknowledgements
+
+The authors are grateful to the Center for Artificial Intelligence (C4AI), with support of the São Paulo Research Foundation and IBM Corporation.
+
+## Citing Us
+
+## Contact
+
+Feel free to email your questions or comments to issues or to [Mateus Machado](mailto:mateusmachado@usp.br)
