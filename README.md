@@ -12,4 +12,4 @@ The authors are grateful to the Center for Artificial Intelligence (C4AI), with 
 
 ## Contact
 
-Feel free to email your questions or comments to issues or to [Mateus Machado](mailto:mateusmachado@usp.br)
+Feel free to email your questions or comments to [Mateus Machado](mailto:mateusmachado@usp.br)
